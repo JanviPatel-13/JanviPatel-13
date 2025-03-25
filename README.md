@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">🎓 Postgraduate Student | 🖥️ Software Engineer | 📱 Full-Stack Developer</h5>
+<h4 align="left">🎓 Postgraduate Student | 🖥️ Software Engineer | 📱 Full-Stack Developer</h4>
 
 
 [![LinkedIn: Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)][1]
