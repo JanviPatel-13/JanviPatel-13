@@ -19,9 +19,9 @@
 <p align="left">✨ Creating bugs since  <i>I wrote my first "Hello, World!" program.</i><br>📚 I'm currently learning <i>Advanced AI, cloud computing, and scalable system design</i><br>🎯 Goals: <i>To build high-performance, scalable software solutions and contribute to open-source projects.</i><br>🎲 Fun fact: <i>I can spend hours debugging, only to realize I forgot a semicolon! 😅</i></p>
 
 
-Feel free to explore more of my projects on my [GitHub profile](https://github.com/JanviPatel-13/).
+Feel free to explore more of my projects 
 
-[![All Repositories](https://img.shields.io/badge/All%20Repositories-View%20All-brightgreen)](https://github.com/JanPatel-13/?tab=repositories)
+[![All Repositories](https://img.shields.io/badge/All%20Repositories-View%20All-brightgreen)](https://github.com/JanviPatel-13/?tab=repositories)
 
 ###
 
